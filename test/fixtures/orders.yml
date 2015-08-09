@@ -3,11 +3,11 @@
 one:
   name: Dave Thomas
   address: dave@example.org
-  email: MyString
+  email: dave@example.org
   pay_type: Check
 
 two:
   name: MyString
   address: MyText
-  email: MyString
+  email: dave@example.org
   pay_type: MyString
